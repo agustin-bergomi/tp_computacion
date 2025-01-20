@@ -9,4 +9,4 @@ Se instaló el servidor Apache2 utilizando el comando apt install apache2, se in
 Se descargaron los archivos index.php y logo.png desde un repositorio en GitHub utilizando el comando wget, y se verificó que se guardaron correctamente en el directorio /var/www/html/.
 <img width="544" alt="1" src="https://github.com/user-attachments/assets/093b4761-6ebb-494d-a806-2ecee9cb2657" />
 Se intentó iniciar sesión en Debian con distintos usuarios (vboxuser, palermo) y finalmente se accedió correctamente como root usando la clave configurada.
-=
+
