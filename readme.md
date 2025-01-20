@@ -12,6 +12,7 @@ En este trabajo práctico se configuró un servidor virtualizado con Debian, rea
 ---
 
 A continuacion se inlcuyen imagenes de algunos pasos realizados para el punto 1 y 2 del trabajo practico:
+
 (Las imagenes no estan en el orden exacto de pasos realizados)
 
 **Se instaló MariaDB**  
