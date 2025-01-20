@@ -12,6 +12,7 @@ En este trabajo práctico se configuró un servidor virtualizado con Debian, rea
 ---
 
 A continuacion se inlcuyen imagenes de algunos pasos realizados para el punto 1 y 2 del trabajo practico:
+(Las imagenes no estan en el orden exacto de pasos realizados)
 
 **Se instaló MariaDB**  
 Se instaló MariaDB utilizando el comando `apt install mariadb-server`. Luego, el servicio se habilitó con `systemctl enable mariadb` y se inició con `systemctl start mariadb`. Se verificó el estado del servicio con `systemctl status mariadb`, confirmando que estaba funcionando correctamente.  
